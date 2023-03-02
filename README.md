@@ -1,2 +1,2 @@
 # Alumno232
-Mi primer repo
+Mi segundo repo
