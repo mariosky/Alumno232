@@ -3,6 +3,6 @@ Mi segundo repo
 
 1. sadfsadfsadf
 2. flsadjflskadjf
-3. tercer punto 
-
+3. Tercer punto
+Un cambio
 [GitHub](https://github.com)
